@@ -1,0 +1,10 @@
+# IDEs
+.project
+.pydevproject
+.idea
+.settings
+
+# Random files
+*~
+\#*
+*.DS_Store
